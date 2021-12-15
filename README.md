@@ -1,2 +1,2 @@
 # exemplo-web
-Web de exemplo para prácticas de scraping
+Web de exemplo para prácticas de web scraping
